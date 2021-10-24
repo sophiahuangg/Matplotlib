@@ -1,6 +1,6 @@
 # Homework 2: Matplotlib and Data Visualization
 
-##Overview
+## Overview
 These data visualizations were created for my introductory computer science course using Python. I chose to create data visualizations on NBA players because growing up, I would watch a lot of basketball with my dad. The purpose of this homework assignment was to familiarize ourselves with Matplotlib and CSV files. 
 
 ## Five Most Common Ages of NBA Players
