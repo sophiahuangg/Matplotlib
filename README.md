@@ -1,7 +1,7 @@
 # Homework 2: Matplotlib and Data Visualization
 
 ## Overview
-These data visualizations were created for my introductory computer science course using Python. I chose to create data visualizations on NBA players because growing up, I would watch a lot of basketball with my dad. The purpose of this homework assignment was to familiarize ourselves with Matplotlib and CSV files. 
+These data visualizations were created for my introductory computer science course using Python. I chose to create data visualizations on NBA players because I watched a lot of basketball with my dad growing up. The purpose of this homework assignment was to familiarize ourselves with Matplotlib and CSV files. 
 
 ## Five Most Common Ages of NBA Players
 ![Ages](https://github.com/sophiahuangg/Nba-Data/blob/main/ages.png)
@@ -22,7 +22,7 @@ If you are interested in learning what these statistics mean, below are some goo
 2. [Basketball Glossary](https://www.basketball-reference.com/about/glossary.html)
 
 The project instructions can be found [here!](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02)
-More datasets on the NBA 2020-2021 Season Player stats can be found [here](https://www.kaggle.com/umutalpaydn/nba-20202021-season-player-stats)
+More datasets on the NBA 2020-2021 Season Player Stats can be found [here.](https://www.kaggle.com/umutalpaydn/nba-20202021-season-player-stats)
 
 ### Credits
 Here are some helpful resources I used for this project:
