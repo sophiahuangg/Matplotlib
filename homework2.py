@@ -34,7 +34,7 @@ colors=['#FF9933', '#D0E3FF','#FF9999','#D3B1C2', '#94C973']
 plt.pie(slices, labels=labels, startangle=90, colors=colors, autopct='%1.1f%%', wedgeprops={'edgecolor':'black'})
 
 #using Pandas
-#this data is a bit outdated, some of these players no longer play for the Spurs
+#this data is a bit outdated
 plt.figure(2)
 df=pd.read_csv('nba/nba2021_advanced.csv')
 columns=df[['Player','Tm']]
