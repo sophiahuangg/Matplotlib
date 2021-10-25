@@ -6,37 +6,36 @@ import pandas as pd
 
 #plt.plot() uses line plot by default
 #plt.bar() gives bar graph. plt.title() plt.xlabel() plt.ylabel()
-with open('nba/nba2021_advanced.csv') as csv_file:
+with open('datasets/historical_bachelor_contestants.csv') as csv_file:
     read=csv.DictReader(csv_file)
-    player_Counter=Counter()
+    contestants=Counter()
     for row in read:
-        player_Counter.update([row['Age']])
-print("player_counter=", player_Counter)
+        contestants.update([row['Age']])
+print("contestants=", contestants)
 
 #pie chart
 
 figure,ax=plt.subplots()
 
 age=[]
-player=[]
-for i in player_Counter.most_common(5):
+contestant=[]
+for i in contestants.most_common(5):
     age.append(i[0])
-    player.append(i[1]) 
+    contestant.append(i[1]) 
 print(age)
-print(player)
+print(contestant)
 
 plt.figure(1)
-plt.suptitle("Most Common Ages of NBA Players")
-plt.title("These are the five most common ages in the NBA (NOT all the ages). This pie chart tells you the percent each age constitutes in the five most common ages.", fontsize=8)
-slices = player
+plt.suptitle("Most Common Ages of Bachelor Contestants")
+slices = contestant
 labels = age
 colors=['#FF9933', '#D0E3FF','#FF9999','#D3B1C2', '#94C973']
 plt.pie(slices, labels=labels, startangle=90, colors=colors, autopct='%1.1f%%', wedgeprops={'edgecolor':'black'})
 
 #using Pandas
-#this data is a bit outdated
+#this data is a bit outdated, some of these players no longer play for the Spurs
 plt.figure(2)
-df=pd.read_csv('nba/nba2021_advanced.csv')
+df=pd.read_csv('datasets/nba2021_advanced.csv')
 columns=df[['Player','Tm']]
 print(columns)
 a=df.iloc[[4, 13, 108, 117, 126, 268],[0,7,8,9]]
