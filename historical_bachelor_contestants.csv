@@ -1,0 +1,480 @@
+,Age,Eliminated,Hometown,Name,Occupation,Outcome,Season
+0,23,Winner,"Chanute, Kansas",Amanda Marsh,Event Planner,,1
+1,29,Runner-Up,"Miami, Florida",Trista Rehn,Miami Heat Dancer,,1
+2,24,Week 5,"Dallas, Texas",Shannon Oliver,Financial Management Consultant,,1
+3,24,Week 4,"Tempe, Arizona",Kim,Nanny,,1
+4,22,Week 3,"Terra Haute, Indiana",Cathy Grimes,Graduate Student,,1
+5,28,Week 3,"Bonita, California",Christina,Attorney,,1
+6,23,Week 3,"Los Angeles, California",LaNease Adams,Actress,,1
+7,28,Week 3,"Woodward, Oklahoma",Rhonda,Commercial Real Estate Agent,,1
+8,27,Week 2,"Beverly Hills, California",Alexa,Special Ed. Teacher,,1
+9,28,Week 2,"New York, New York",Amy,Production Coordinator,,1
+10,25,Week 2,"Avondale, Arizona",Angela,Hooters Waitress,,1
+11,27,Week 2,"Burbank, California",Angelique,Actress,,1
+12,23,Week 2,"Malden, Massachusetts",Katie,Power Tool Sales Rep.,,1
+13,25,Week 2,"Tempe, Arizona",Melissa,Photographer,,1
+14,27,Week 2,"Plano, Texas",Tina,Graduate Student,,1
+15,29,Week 1,"Los Angeles, California",Amber,Business Development Director,,1
+16,30,Week 1,"Seattle, Washington",Daniela,Neuropsychologist,,1
+17,30,Week 1,"Honolulu, Hawaii",Denise,Doctor,,1
+18,22,Week 1,"Pittsburgh, Pennsylvania",Jackie,Bar Manager,,1
+19,31,Week 1,"Chicago, Illinois",Jill,Retail Manager,,1
+20,27,Week 1,"Los Angeles, California",Kristina,Advertising Executive,,1
+21,29,Week 1,"Dallas, Texas",Lisa,Attorney,,1
+22,24,Week 1,"Swansea, Massachusetts",Paula,Insurance Representative,,1
+23,29,Week 1,"Eastchester, New York",Rachel,6th Grade Teacher,,1
+24,26,Week 1,"Dallas, Texas",Wendi,Technology Specialist,,1
+0,27,Winner,"Gloucester, New Jersey",Helene Eksterowicz,School Psychologist,,2
+1,22,Runner-Up,"Albertville, Alabama",Brooke Smith,College Student,,2
+2,31,Week 6,"Philadelphia, Pennsylvania",Gwen Gioia,Executive Recruiter,,2
+3,27,Week 5,"Kansas City, Missouri",Angela,Registered Nurse,,2
+4,28,Week 4,"Lake Oswego, Oregon",Hayley,Retail Manager,,2
+5,30,Week 4,"Dallas, Texas",Heather Crawford,Flight Attendant,,2
+6,23,Week 3,"Boise, Idaho",Christi,Assistant Financial Advisor,,2
+7,24,Week 3,"Walnut Creek, California",Heather,Marriage Therapy Trainee,,2
+8,22,Week 3,"Midvale, Utah",Kyla,Airline Supervisor,,2
+9,26,Week 3,"Long Island, New York",Shannon,Graphic Artist,,2
+10,24,Week 2,"Beverly Hills, California",Dana,Radio Sales,,2
+11,25,Week 2,"Westchester, Pennsylvania",Erin,Publications Quality Control,,2
+12,33,Week 2,"Redondo Beach, California",Suzanne,Flight Attendant,,2
+13,30,Week 2 (Quit),"San Francisco, California",Frances,Strategic Planning Analyst,,2
+14,27,Week 2 (Quit),"New York, New York",Anindita,Attorney,,2
+15,26,Week 1,"Chapel Hill, North Carolina",Amber,Psychologist,,2
+16,29,Week 1,"Los Angeles, California",Camille,Actress,,2
+17,29,Week 1,"Granite City, Illinois",Cari,3rd Grade Teacher,,2
+18,24,Week 1,"Avondale, Arizona",Christy,Radiological Technologist,,2
+19,24,Week 1,"Houston, Texas",Erin,Interior Designer,,2
+20,22,Week 1,"Long Beach, California",Fatima,College Student,,2
+21,30,Week 1,"Coral Gables, Florida",Liangy,Paralegal,,2
+22,26,Week 1,"Dallas, Texas",Lori,Former NBA Cheerleader,,2
+23,28,Week 1,"Forked River, New Jersey",Merrilee,1st Grade Teacher,,2
+24,28,Week 1,"Richmond, Virginia",Suzi,Communications Specialist,,2
+0,22,Winner,"Huntington Beach, California",Jessica Bowlin,Student,,5
+1,23,Week 7,"Shawnee, Oklahoma",Tara Huckeby,General contractor,,5
+2,26,Week 6,"Midland, Texas",Mandy Jaye Jeffreys,Designer for an architect firm,,5
+3,28,Week 5,"Atlanta, Georgia",Trish Schneider,Model,,5
+4,23,Week 4,"Ann Arbor, Michigan",Suzie Williams,Prosthetic technician,,5
+5,28,Week 4,"Pleasant Grove, Utah",Karen Lindsay,Pharmaceutical sales,,5
+6,25,Week 3,"Pearsall, Texas",Jessica Holcomb,Attorney,,5
+7,24,Week 3,"Sacramento, California",Julie Durda,Professional Cheerleader,,5
+8,26,Week 3,"Carrboro, North Carolina",Jenny De Schiralli,Swim instructor/nanny/personal trainer,,5
+9,22,Week 3,"Scottsdale, Arizona",Katie Gehart,LASIK Eye and Skin Center manager,,5
+10,26,Week 2,"Gibson, North Carolina",Jean-Marie Callahan,Hair stylist,,5
+11,27,Week 2,"Pinetops, North Carolina",Debbie Merkett,Massage therapist/bartender,,5
+12,27,Week 2,"Quebec City, Quebec",Anne-Catherine Labbé,Model/make-up artist,,5
+13,27,Week 2,"Sunriver, Oregon",Amber LaRoux,Consultant,,5
+14,25,Week 2,"San Diego, California",Mandy Clemens,Professional soccer player,,5
+15,25,Week 2,"Dearborn, Michigan",Kristy Romero,Student,,5
+16,24,Week 2,"Ithaca, New York",Celeste Creel,Model/executive assistant,,5
+17,24,Week 2,"Canton, Michigan",Jenny Matthews,Retail manager,,5
+18,26,Week 1,"Madison, New Jersey",Dolores Farburg,Account manager,,5
+19,25,Week 1,"Houston, Texas",Francine Jones,Retail manager,,5
+20,25,Week 1,"Phillipsburg, New Jersey",DeShaun Warner,Account manager/sales,,5
+21,21,Week 1,"Cincinnati, Ohio",Jessica Kyron,Student,,5
+22,26,Week 1,"Tulsa, Oklahoma",Holly Reeder,Bank representative,,5
+23,26,Week 1,"Buffalo, New York",Rachel Clementi,Fashion public relations manager,,5
+24,25,Week 1,"Sausalito, California",Kristin Clearwater,Singer,,5
+0,24,Winner,"Pembroke Pines, Florida",Jennifer Wilson,Teacher,,9
+1,23,Week 7,"Carlsbad, California",Sadie Murray,Publicist,,9
+2,25,Week 6,"Portland, Oregon",Lisa Blank,Marketing manager,,9
+3,24,Week 5,"Venice, Italy",Agnese Polliza,Student,,9
+4,23,Week 4,"Bloomingdale, Illinois",Jeanette Pawula,Teacher,,9
+5,22,Week 4,"Salt Lake City, Utah",Desiree Valentin,Realtor,,9
+6,27,Week 3,"Galveston, Texas",Jami Matzke,Event planner,,9
+7,28,Week 3,"Chicago, Illinois",Gina Clark,Ultrasound technician,,9
+8,23,Week 3,"Houston, Texas",Erica Rose,Socialite,,9
+9,30,Week 2,"Nelson, British Columbia",Sarah Schnare,Journalist,,9
+10,27,Week 2,"Newport Beach, California",Kim Jackson,Interior designer,,9
+11,30,Week 2,"New Haven, Connecticut",Ellen DeMaio,Realtor,,9
+12,24,Week 1,"St. Augustine, Florida",Tara Durr,Realtor,,9
+13,27,Week 1,"Chicago, Illinois",Rosella Fratto,Make-up artist,,9
+14,29,Week 1,"Richmond, VA",Rita Ghazal,Policy advisor,,9
+15,30,Week 1,"Baltimore, MD",Renee Snell,Broadcast marketer,,9
+16,27,Week 1,"Biloxi, MS",Meri Barr,Attorney,,9
+17,29,Week 1,"San Diego, CA",Laura Morgan,Dolphin trainer,,9
+18,25,Week 1,"Charlotte, NC",Jessica Horner,Assistant buyer,,9
+19,34,Week 1,"Aliquippa, PA",Heather Sneed,Registered nurse,,9
+20,27,Week 1,"New York, NY",Elyse Hammer,Physician,,9
+21,,Week 1,Italy,Cosetta Blanca,Dancer,,9
+22,22,Week 1,"Boca Raton, FL",Claudia Gismondi,Restaurateur,,9
+23,25,Week 1,"Cattaraugus, NY",Carissa Ilburg,Attorney,,9
+24,28,Week 1,"Columbus, OH",Britt (Bowe) Newton,Beer chemist,,9
+25,28,Week 1,"Cincinnati, OH",Andrea Shirley,Hotel concierge,,9
+26,23,Week 1,"Chicago, IL",April Jacobs,Model,,9
+0,26,Winner,"San Francisco, California",Tessa Horst,Social Worker,,10
+1,28,Week 8,"Palo Alto, California",Bevin Nicole Powers,Assistant,,10
+2,25,Week 7,"Bethel, Connecticut",Danielle Imwalle,Graphic Designer,,10
+3,23,Week 6,"Sugar Land, Texas",Amber Alchalabi,Teacher,,10
+4,23,Week 5,"Overland Park, Kansas",Stephanie Wilhite,Project Manager,,10
+5,26,Week 5,"Los Angeles, California",Tina Wu,Medical student,,10
+6,24,Week 4,"Ravenel, South Carolina",Kate Brockhouse,Boutique owner,,10
+7,26,Week 4,"Charleston, South Carolina",Nicole Clary,Sales Manager,,10
+8,27,Week 4,"Folly Beach, South Carolina",Stephanie Tipper,Organ donor coordinator,,10
+9,26,Week 3,"Dallas, Texas",Amanda Hackney,Financial analyst,,10
+10,24,Week 3,"Logansport, Louisiana",Erin Parker,Financial analyst,,10
+11,24,Week 3,"La Vergne, Tennessee",Peyton Wright,Sorority recruiter,,10
+12,26,Week 2,"Southlake, Texas",Alexis Young,Attorney,,10
+13,23,Week 2,"The Woodlands, Texas",Susan Anderson,Boutique manager,,10
+14,28,Week 2,"Boston, Massachusetts",Tiffany Warren,Medical equipment sales rep,,10
+15,29,Week 1,"Birmingham, Alabama",Blakeney Rowe,Radio sales,,10
+16,23,Week 1,"Hilton Head Island, South Carolina",Candace DeCost,Waitress,,10
+17,23,Week 1,"Lake Forest, Illinois",Catherine Warren,Former Miss Illinois,,10
+18,26,Week 1,"Bronx, New York",Danielle Vallis,Attorney,,10
+19,23,Week 1,"Minneapolis, Minnesota",Jackie Topelli,Executive coordinator,,10
+20,27,Week 1,"Tampa, Florida",Jeanette Alvarez,Health care manager,,10
+21,32,Week 1,"New York, New York",Jessica Devallo,Hedge fund analyst,,10
+22,33,Week 1,"Cuyahoga Falls, Ohio",Linda Malek,Attorney,,10
+23,22,Week 1,"Lawrence, Kansas",Lindsay Smith,Student,,10
+24,27,Week 1,"St. Louis Park, Minnesota",Tiffany Forester,Real estate sales/development,,10
+0,25,Week 8,"Newnan, Georgia",Deanna Pappas[1],Realtor,,11
+1,27,Week 8,"Wichita, Kansas",Jenni Croft,Phoenix Suns Cheerleader,,11
+2,27,Week 7,"Washington, D.C.",Bettina Bell[2],Realtor,,11
+3,23,Week 6,"Walnut Creek, California",Sheena Stewart[3],Internet marketing executive,,11
+4,27,Week 5,"Philadelphia, Pennsylvania",Hillary Reisinger[4],Registered nurse,,11
+5,29,Week 5,"Gurnee, Illinois",Kristy Katzmann[5],Acupuncturist,,11
+6,26,Week 4,"Atlanta, Georgia","Estefania ""Stephy"" Kootz",Executive assistant,,11
+7,24,Week 4,"Nashville, Tennessee",Jade Beazley[6],Boutique sales worker,,11
+8,26,Week 4,"Lemon Grove, California",McCarten Delaney[7][8],Account manager,,11
+9,25,Week 3,"Livonia, Michigan",Lindsey Hawkins,Model,,11
+10,23,Week 3,"O'Fallon, Illinois",Sarah Newlon,Bar manager,,11
+11,25,Week 3,"Georgetown, Texas",Solisa Shoop[9],Esthetician,,11
+12,30,Week 2,"South Brunswick, New Jersey",Michele Leavy[10],Realtor,,11
+13,24,Week 2,"Honolulu, Hawaii",Mallory Simons,Nanny,,11
+14,25,Week 2,"Tampa, Florida",Erin Gardner,Publishing sales executive,,11
+15,27,Week 1,"Lady Lake, Florida",Jessica Kiss,News anchor,,11
+16,24,Week 1,"Chicago, Illinois",Juli Gilliam,Law student,,11
+17,31,Week 1,"Woodbridge, Connecticut",Kim Orville,Realtor,,11
+18,33,Week 1,"Annapolis, Maryland",Lori Langley[11],Biology teacher,,11
+19,28,Week 1,"Westchester, New York",Melissa Buschel[12],Event planner,,11
+20,24,Week 1,"Tempe, Arizona",Morgan Becker,Graduate student,,11
+21,25,Week 1,"Duncanville, Texas",Natalie Velasco,Law student,,11
+22,31,Week 1,"San Diego, California",Regina Doringa,Account representative,,11
+23,31,Week 1,"St. Louis Park, Minnesota",Tauni Nessler [11],Emergency room nurse,,11
+24,35,Week 1,"St. Charles, Illinois",Susan Stein,Project analyst,,11
+0,22,,"Malibu, California",Shayne Lamas[1],Actress,Winner,12
+1,25,,"Durango, Colorado",Chelsea Wanstrath[1],Pharmaceutical sales rep.,Runner-up,12
+2,27,,"Niceville, Florida",Amanda Rantuccio[1],Account Executive,Week 7,12
+3,26,,"Loveland, Colorado",Noelle Drake[2],Photographer,Week 6,12
+4,27,,"Brooklyn, New York",Marshana Ritchie[3],Fashion designer,Week 5,12
+5,22,,"Holland, Michigan",Robin Canfield[3],Advertising coordinator,,12
+6,22,,"Jacksonville Beach, Florida",Ashlee Williss[4],Singer-songwriter,Week 4,12
+7,25,,"Hollywood, California",Kelly Duncan,Medical sales rep.,,12
+8,24,,"Suffield, Ohio",Holly Durst[5][6],Children's book author,9,12
+9,22,,"Stockton, California",Amy,Nanny,Week 3,12
+10,33,,"Venice, California",Erin Storm,Hot-dog vendor,,12
+11,33,,"Dillsburg, Pennsylvania",Kristine Heffelfinger[7],Personal trainer,,12
+12,25,,"Oklahoma City, Oklahoma",Carri Perrier[8][9],Church marketing rep.,Week 2,12
+13,25,,"Seattle, Washington",Erin Harper[10][11],Event planner,,12
+14,28,,"Syracuse, New York",Michelle P.,Administrative assistant,,12
+15,24,,"Boise, Idaho",Alyssa,Biology student,Week 1,12
+16,26,,"LaFollette, Tennessee",Amanda Petterman[12],Law student,,12
+17,30,,"Washington, D.C",Denise,Attorney and former White House aide,,12
+18,24,,"Austin, Texas",Devon,Makeup artist,,12
+19,23,,"Tampa, Florida",Lesley Geyer[13],Youth minister,,12
+20,33,,"Laguna Niguel, California",Michele R.,Interior designer,,12
+21,30,,"Alamo, California",Rebecca,Attorney,,12
+22,26,,"Chicago, Illinois",Stacey Elza[14],Graduate student,,12
+23,23,,"Beverly Hills, California",Tamara,Cocktail waitress,,12
+24,33,,"San Francisco, California",Tiffany,Real estate marketing rep.,,12
+0,25,,"Dallas, Texas",Melissa Rycroft[1],Sales Representative,Winner,13
+1,24,,"Brookfield, Wisconsin",Molly Malaney[2],Department Store Buyer,Runner-up,13
+2,29,,"Peace River, Alberta",Jillian Harris,Interior Designer,Week 7,13
+3,24,,"Carlsbad, California",Naomi Rose Crespo[3],Flight Attendant,Week 6,13
+4,34,,"Huntsville, Alabama",Stephanie Hogan[4],Single Mother & Medical Marketing Rep.,Week 5,13
+5,27,,"Marlboro, New Jersey",Lauren Wanger,Teacher,Week 4,13
+6,25,,"Sewickley, Pennsylvania",Megan Parris[5],Single Mother and Lacrosse Coach,,13
+7,29,,"Marshall, Missouri",Shannon Bair[6],Dental Hygienist,,13
+8,29,,"Blue Island, Illinois","Nicole ""Nikki"" Kaapke[7]",Administrative Assistant,9,13
+9,25,,"Monroe, Connecticut",Erica DeSimone,Account Executive,Week 3,13
+10,27,,"Lee's Summit, Missouri",Kari Fajen[8],Account Executive,,13
+11,27,,"Morton, Illinois",Natalie Getz[9],Human Resources Recruiter,12,13
+12,27,,"Recife, Pernambuco, Brazil",Raquel Medeiros[10],Medical Student,Week 2,13
+13,32,,"Batavia, New York",Sharon Staebell[11],Teacher,,13
+14,28,,"Boise, Idaho",Lisa Gonzalez[12],Public Relations Associate,15 (quit),13
+15,24,,"Phoenix, Arizona",Ann Lueders,Flight Attendant,Week 1,13
+16,26,,"Mt. Carmel, Pennsylvania",Dominique Carta,Medical Sales Rep.,,13
+17,23,,"Seattle, Washington",Emily,Casino Marketing Rep.,,13
+18,26,,"Springfield, Massachusetts",Jackie Hickey,Wedding Coordinator,,13
+19,26,,"Columbus, Ohio",Julie Dermotta,Teacher,,13
+20,25,,"Calgary, Alberta",Nicole Mah,Menswear Buyer,,13
+21,36,,"Southfield, Michigan",Renee Simlak,Jewelry Designer,,13
+22,23,,"Stockton, California",Shelby,Account Executive,,13
+23,24,,"Orem, Utah",Stacia Mann,Single Mother & Charity Accountant,,13
+24,28,,"Salt Lake City, Utah",Treasure Morgan,Single Mother and Nurse Practitioner,,13
+0,23,,"Geneva, Florida",Vienna Girardi[1][2],Marketing Representative,Winner,14
+1,25,,"Newberg, Oregon",Tenley Molzahn[1][3],College Admissions,Runner-up,14
+2,26,,"New York, New York",Gia Allemand[1][4],Swimsuit Model,Week 7,14
+3,25,,"Williamstown, Massachusetts",Ali Fedotowsky[1][4],Advertising Account Manager,Week 6,14
+4,23,,"Kissimmee, Florida",Corrie Adamson[1],Wardrobe Consultant,Week 5,14
+5,25,,"North Potomac, Maryland",Ashleigh Hunt[1],Account Manager,Week 4,14
+6,25,,"Oakville, Ontario",Jessie Sulidis[1],Cosmetic Sales Manager,,14
+7,25,,"Lexington, Kentucky",Kathryn Sherlock[5],Corporate Flight Attendant,8,14
+8,30,,"La Follette, Tennessee",Ella Nolan[1][4],Hair Stylist,9,14
+9,29,,"Imperial, Nebraska",Elizabeth Kitt (NE)[4],Nanny,Week 3,14
+10,32,,"San Bernardino, California",Valishia Savage[6],Homemaker,,14
+11,26,,"Anaheim, California",Michelle Kujawa[4],Office Manager,12,14
+12,29,,"Pittsburgh, Pennsylvania",Ashley Elmore[7],Teacher,Week 2,14
+13,25,,"San Diego, California",Christina McCasland[8],Restaurant Manager,,14
+14,28,,"Richmond, Virginia",Rozlyn Papa[4],Model/Make-Up Artist,15 (DQ),14
+15,25,,"Galloway, Ohio",Alexa (Lex) McAllister[9],Entrepreneur,Week 1,14
+16,24,,"Winfield, Illinois",Caitlyn McCabe[10],Spokesmodel,,14
+17,29,,"Santa Rosa, California",Channy Choch[11],Mortgage Loan Officer,,14
+18,29,,"Union, Kentucky",Elizabeth Kreft (D.C.)[12],"Captain, Air National Guard",,14
+19,23,,"West Chester, Ohio",Emily Harkins[9],Fitness Model,,14
+20,24,,"Norman, Oklahoma",Kimberly Sullivan[13],NBA Dancer,,14
+21,25,,"Aurora, Colorado",Kirsten Pittman[14],Waitress,,14
+22,25,,"Scottsdale, Arizona",Sheila Marie Lidner[15],Commercial Pilot,,14
+23,24,,"Morris, Illinois",Stephanie Mueller[13],Dance Teacher,,14
+24,31,,"Calgary, Alberta",Tiana Kruzel[16],Medical Technician,,14
+0,25,,"Morgantown, West Virginia",Emily Maynard[5],Children's Hospital Event Planner,Winner,15
+1,28,,"Mercer Island, Washington",Chantal O'Brien[6],Executive Assistant,Runner-up,15
+2,26,,"Madawaska, Maine",Ashley Hebert[7],Dental Student,Week 9,15
+3,25,,"Chico, California",Shawntel Newton[8],Funeral Director,Week 8,15
+4,30,,"Salt Lake City, Utah",Michelle Money,Hair stylist,Week 7,15
+5,25,,"Woodinville, Washington",Britt Billmaier[6],Food writer,6,15
+6,26,,"Newport, Rhode Island",Jackie Gordon[9],Artist,Week 6,15
+7,24,,"Columbus, Ohio",Alli Travis[10],Apparel merchant,8,15
+8,24,,"Ottawa, Kansas",Lisa Morrisey[11],Marketing Coordinator,Week 5,15
+9,26,,"Mesa, Arizona",Marissa May[12],Sports Publicist,,15
+10,26,,"Ellerbe, North Carolina",Ashley Spivey[13],Nanny,11,15
+11,25,,"Plano, Texas",Lindsay Hill[14],First grade teacher,Week 4,15
+12,30,,"Princeton, New Jersey",Meghan Merritt,Fashion Marketer,,15
+13,26,,"Quincy, Massachusetts",Stacey Quirpel,Bartender,,15
+14,27,,"Orlando, Florida",Kimberly Coon[15],Marketing Coordinator,Week 3,15
+15,27,,"Denver, Colorado",Sarah Powell[16],Real Estate Broker,,15
+16,25,,"Vail, Colorado",Madison Garton[17],Model,17 (quit),15
+17,28,,"Sherwood Park, Alberta",Keltie Colleen[18],Radio City Rockette,Week 2,15
+18,32,,"Westport, Connecticut",Melissa Schreiber[19],Waitress,,15
+19,29,,"Fullerton, California",Raichel Goodyear[19],Manscaper,,15
+20,25,,"Holland, Pennsylvania",Britnee,Paralegal,Week 1,15
+21,30,,"Davie, Florida",Cristy Caserta[20],Attorney,,15
+22,26,,"Seattle, Washington","Jessica ""J"" Adams[6]",Operations Manager,,15
+23,28,,"Frisco, Texas",Jill Ruskowski[14],Sales director,,15
+24,27,,"Tampa, Florida",Lacey Garbelman[21],Insurance agent,,15
+25,26,,"Culpeper, Virginia",Lauren Moore[22],High School Teacher,,15
+26,27,,"Dix Hills, New York",Lisa P.,Sales Consultant,,15
+27,30,,"Mission Viejo, California",Rebecca,Esthetician,,15
+28,28,,"Palos Hills, Illinois",Renee Halpin,Nanny,,15
+29,25,,"Saginaw, Michigan",Sarah Ledtke[23],Musical Theatre Performer,,15
+0,28,,"Scottsdale, Arizona",Courtney Robertson[3][4],Model,Winner,16
+1,27,,"Newcastle, Washington[b]",Lindzi Cox[5],Business development manager,Runner-up,16
+2,26,,"Hurst, Texas",Nicki Sterling[3],Dental hygienist,Week 9,16
+3,24,,"Clarksville, Tennessee[c]",Kacie Boguskie[6],Administrative assistant,Week 8,16
+4,27,,"Chapel Hill, North Carolina",Emily O'Brien[7],PhD Student,Week 7,16
+5,27,,"Southampton, Massachusetts",Rachel Truehart[8],Fashion sales representative,,16
+6,25,,"Dryden, New York",Jamie Otis[9],Registered nurse,Week 6,16
+7,26,,"Leawood, Kansas",Casey Shteamer[10],Trading clerk,8 (DQ),16
+8,33,,"Rutherfordton, North Carolina",Blakeley Jones[7],VIP cocktail waitress,9,16
+9,28,,"Cache, Oklahoma",Jennifer Fritsch[10],Accountant,Week 5,16
+10,24,,"Chicago, Illinois",Elyse Myers[10],Personal trainer,11,16
+11,33,,"Yuba, California",Monica Spannbauer[11],Dental consultant,Week 4,16
+12,26,,"Pittsburgh, Pennsylvania",Samantha Levey[12][13],Advertising account manager,13,16
+13,23,,"Charlottesville, Virginia",Erika Uhlig[14],Law student,Week 3,16
+14,27,,"Newton, Massachusetts",Jaclyn Swartz[15],Advertising account manager,,16
+15,26,,"Colorado Springs, Colorado",Brittney Schreiner[3],Medical sales representative,16 (quit),16
+16,27,,"Loveland, Ohio",Jenna Burke[16][17],Blogger,Week 2,16
+17,28,,"Cincinnati, Ohio",Shawn Reynolds[18],Financial advisor,,16
+18,23,,"Port Coquitlam, British Columbia",Amber Bacon[19],Labor and delivery nurse,Week 1,16
+19,28,,"Waverly, Nebraska",Amber Tierney[20][21],Critical care nurse,,16
+20,25,,"Detroit, Michigan",Anna Snowball[16][22],Student,,16
+21,30,,"San Gabriel, California",Dianna Martinez[13],Nonprofit director,,16
+22,34,,"Salyersville, Kentucky",Holly Johnson[20],Pharmaceutical sales representative,,16
+23,29,,"London, England",Lyndsie James[20],Internet entrepreneur,,16
+24,35,,"Massapequa Park, New York",Shira Astrof[13],Actress,,16
+0,26,,"Seattle, Washington",Catherine Giudici[11],Graphic Designer,Winner,17
+1,24,,"Fort Bragg, North Carolina",Lindsay Yenter[12],Substitute Teacher,Runner-up,17
+2,32,,"Houston, Texas",AshLee Frazier[13],Personal Organizer,Week 9,17
+3,26,,"Northglenn, Colorado",Desiree Hartsock[14],Bridal Stylist,Week 8,17
+4,24,,"Fort Smith, Arkansas",Lesley Murphy[15],Political Consultant,Week 7,17
+5,24,,"Las Vegas, Nevada",Tierra LiCausi[16],Leasing Consultant,6,17
+6,24,,"Belmont, California",Daniella McBride[17],Commercial Casting Associate,Week 6,17
+7,29,,"Borrego Springs, California",Selma Alameri[18],Real Estate Dealer,,17
+8,26,,"Evergreen, Colorado",Sarah Herron[14][19],Advertising Executive,9,17
+9,24,,"Topeka, Kansas",Robyn Howard[13][20],Oil Field Account Manager,Week 5,17
+10,25,,"Ormond Beach, Florida",Jackie Parr[21],Cosmetics Consultant,11,17
+11,26,,"Bakersfield, California",Amanda Meyer[14],Fit Model,Week 4,17
+12,28,,"Ruskin, Florida",Leslie Hughes[14],Poker Dealer,13,17
+13,25,,"Darien, Wisconsin",Kristy Kaminski[22],Model,Week 3,17
+14,30,,"Troutdale, Oregon",Taryn Renee Daniels[23],Health Club Manager,,17
+15,25,,"Clarksville, Tennessee",Kacie Boguskie[24],Administrative Assistant,16,17
+16,25,,"Pittsburgh, Pennsylvania",Brooke Burchette[25],Community Organizer,Week 2,17
+17,31,,"Sandy, Utah",Diana Weeks Willardson[26],Salon Owner,,17
+18,27,,"Woodstock, Illinois",Katie Levans[27],Yoga Instructor,19 (quit),17
+19,25,,"Garner, North Carolina",Ashley Harper[28],Fashion Model,Week 1,17
+20,28,,"Macomb, Michigan",Ashley Palenkas[29],Hair Stylist,,17
+21,28,,"Chattanooga, Tennessee",Kelly Dutton[30],Cruise Ship Entertainer,,17
+22,29,,"Agoura Hills, California",Keriann Miranda[31],Entrepreneur,,17
+23,24,,"Stevenson Ranch, California",Lacey Latka[14],Graduate Student,,17
+24,27,,"Cranston, Rhode Island",Lauren Marchetti[32],Journalist,,17
+25,25,,"Minnetonka, Minnesota",Paige Vigil,Jumbotron Operator,,17
+0,26,,"Kearney, Missouri",Nikki Ferrell[6][7],Pediatric Nurse,Winner,18
+1,32,,"Sacramento, California",Clare Crawley[8],Hairstylist,Runner-up,18
+2,26,,"Buckhead, Georgia",Andi Dorfman[9],Assistant District Attorney,Week 9,18
+3,32,,"Martha's Vineyard, Massachusetts[a]",Renee Oteri[10],Real Estate Agent,Week 8,18
+4,24,,"Lexington, Ohio",Chelsie Webster[11],Science Educator,Week 7,18
+5,29,,"Ottawa, Ontario",Sharleen Joynt[12][13],Opera Singer,6 (quit),18
+6,29,,"Iowa City, Iowa",Kat Hurd[14],Medical Sales Representative/NBA Dancer,Week 6,18
+7,22,,"Shelby Charter Township, Michigan",Cassandra Ferguson[15],Former NBA Dancer,8,18
+8,26,,"Orland Park, Illinois",Alli Restko[13],Nanny,Week 5,18
+9,25,,"Litchfield, Illinois",Danielle Ronco[16],Psychiatric Nurse,,18
+10,27,,"Conyers, Georgia",Kelly Travis[9][13],Dog Lover,,18
+11,27,,"Forty Fort, Pennsylvania",Elise Mosca[17],First Grade Teacher,Week 4,18
+12,26,,"Austin, Texas",Lauren Solomon[18],Music Composer,,18
+13,24,,"Aurora, Illinois",Christy Hansen[19],Marketing Manager,Week 3,18
+14,25,,"Santa Barbara, California","Lucy !Lucinda ""Lucy"" Aragon[13]",Free Spirit,,18
+15,27,,"Clermont, Florida",Amy Long[20],Local News Reporter,Week 2,18
+16,27,,"Miami, Florida",Chantel Forrest[21],Account Manager,,18
+17,24,,"Porto Alegre, Brazil",Victoria Lima[13],Legal Assistant,18,18
+18,24,,"Tampa, Florida",Alexis Morgado[13][22],Communications Director/NHL Ice Girl,Week 1,18
+19,31,,"Apopka, Florida",Amy Jokinen[13],Massage Therapist,,18
+20,25,,"Roanoke, Texas",Ashley Poe[13],Grade School Teacher,,18
+21,23,,"Miami, Florida",Christine Llano[13][23],Police Support Specialist,,18
+22,23,,"Rockford, Illinois",Kylie Lewis[13][24],Interior Designer,,18
+23,25,,"Antelope Acres, California",Lacy Faddoul[13][21],Nursing Home Owner,,18
+24,25,,"Edmond, Oklahoma",Lauren Higginson[13],Mineral Coordinator,,18
+25,25,,"Wagener, South Carolina",Maggie Gantt[13][25],Personal Banker,,18
+26,26,,"Sutter, California",Valerie Eredia[13][26],Personal Trainer,,18
+0,29,,"Louisville, Kentucky[a]",Whitney Bischoff[5][6][7],Fertility Nurse,Winner,19
+1,25,,"Shreveport, Louisiana[b]",Becca Tilley[10][11],Chiropractic Assistant,Runner-up,19
+2,29,,"Leduc, Alberta[c]",Kaitlyn Bristowe[12],Dance Instructor,Week 9,19
+3,28,,"Gering, Nebraska[d]",Jade Roper[6][15][16],Cosmetics Developer,Week 8,19
+4,29,,"Arlington, Texas",Carly Waddell[18],Cruise Ship Singer,Week 7,19
+5,27,,"Wolcott Mills, Michigan",Britt Nilsson[6][15],Waitress,6,19
+6,24,,"Nashville, Tennessee",Megan Bell[5],Make-Up Artist,Week 6,19
+7,28,,"Hudsonville, Michigan[e]",Kelsey Poe[6][20],Guidance Counselor,8,19
+8,26,,"Great Falls, Virginia[f]",Ashley Iaconetti[6][22],Nanny/Freelance Journalist,9,19
+9,21,,"Maple Valley, Washington",Mackenzie Deonigi[5],Dental Assistant,Week 5,19
+10,27,,"Indianapolis, Indiana[g]",Samantha Steffen[15][24],Fashion Designer,,19
+11,24,,"Vinings, Georgia",Ashley Salter[25],Hair Stylist,Week 4,19
+12,30,,"Beaverton, Oregon",Juelia Kinney[5][27],Esthetician,,19
+13,26,,"Hasbrouck Heights, New Jersey",Nikki Delventhal[22],Former NFL Cheerleader,,19
+14,25,,"Howland, Ohio[h]",Jillian Anderson[28][29],News Producer,15,19
+15,29,,"Kankakee, Illinois[i]",Amber James[5][30],Bartender,Week 3,19
+16,29,,"Wellington, Florida",Tracy Darakis[32],Fourth Grade Teacher,,19
+17,33,,"Algonquin, Illinois[j]",Trina Scherenberg[15][33],Special Education Teacher,,19
+18,24,,"Hamilton, New Jersey",Alissa Giambrone[22],Flight Attendant,Week 2,19
+19,24,,"Windsor, Colorado",Jordan Branch[35],Student,,19
+20,28,,"Wantagh, New York[36]",Kimberly Sherbach[36],Yoga Instructor,[34][37],19
+21,30,,"Sandy, Utah",Tandra Steiner[5],Executive Assistant,[34],19
+22,26,,"Fort Lauderdale, Florida",Tara Eddings[5][38],Sport Fishing Enthusiast,,19
+23,24,,"Lake in the Hills, Illinois",Amanda Goerlitz[33],Ballet Teacher,Week 1,19
+24,25,,"Carpinteria, California",Bo Stanley[39],Plus-Size Model,,19
+25,26,,"Temecula, California",Brittany Fetkin[40],WWE Diva-in-Training,,19
+26,25,,"Brownsville, Kentucky",Kara Wilson[41],High School Soccer Coach,,19
+27,25,,"Provo, Utah",Michelle Davis[5],Wedding Cake Baker,,19
+28,31,,"Scottsdale, Arizona",Nicole Meacham[42][43],Real Estate Agent,,19
+29,28,,"Manhattan Beach, California",Reegan Cornwell[15],Cadaver Tissue Saleswoman,,19
+0,25,,"West Linn, Oregon",Lauren Bushnell[9][10][11],Flight Attendant,Winner,20
+1,24,,"Dallas, Texas","Joelle ""JoJo"" Fletcher[6][13]",Real Estate Developer,Runner-up,20
+2,24,,"Hudson, Ohio",Caila Quinn[14][15],Software Sales Representative,Week 9,20
+3,25,,"Rancho Santa Margarita, California",Amanda Stanton[13][17],Esthetician,Week 8,20
+4,26,,"Shreveport, Louisiana",Becca Tilley[19],Chiropractic Assistant,Week 7,20
+5,23,,"Las Vegas, Nevada",Emily Ferguson[a][13][21],Waitress,6,20
+6,25,,"Dexter, Michigan",Lauren Himle[22],Kindergarten Teacher,Week 6,20
+7,23,,"Bristol, Virginia",Olivia Caridi[5][13],Former News Anchor,8,20
+8,25,,"Greenwood Village, Colorado",Leah Block[24],Event Planner,9,20
+9,25,,"Lauderdale Lakes, Florida",Jennifer Saviano[21],Small Business Owner,Week 5,20
+10,24,,"Fort Lauderdale, Florida",Jubilee Sharpe[13][21],War Veteran,11,20
+11,30,,"Kankakee, Illinois",Amber James[26],Bartender,Week 4,20
+12,23,,"Little Rock, Arkansas",Rachel Tchen[28],Unemployed,,20
+13,23,,"Las Vegas, Nevada",Haley Ferguson[a][13][21],Waitress,14,20
+14,23,,"St. Albert, Alberta",Jami Letain[29],Bartender,Week 3,20
+15,27,,"Salt Lake City, Utah",Shushanna Mkrtychyan[31],Mathematician,,20
+16,25,,"Denver, Colorado",Lace Morris[24],Real Estate Agent,17 (quit),20
+17,28,,"Portland, Oregon","Amanda ""Mandi"" Kremer[9]",Dentist,Week 2,20
+18,23,,"Newport Beach, California","Jacqueline ""Jackie"" Dion[33]",Gerontologist,,20
+19,26,,"New Smyrna Beach, Florida",Samantha Passmore[34],Attorney,,20
+20,23,,"Stillwater, Oklahoma","Lauren ""LB"" Barr[35]",Fashion Buyer,21 (quit),20
+21,30,,"Seattle, Washington",Breanne Rice[36],Nutritional Therapist,Week 1,20
+22,24,,"Branford, Connecticut","Isabel ""Izzy"" Goodkind[38]",Graphic Designer,,20
+23,23,,"Boca Raton, Florida",Jessica Moser[39],Accountant,,20
+24,24,,"Louisville, Kentucky",Laura Esselman[21],Account Executive,,20
+25,26,,"Houston, Texas",Lauren Russell[40],Math Teacher,,20
+26,30,,"Visalia, California",Maegan Miller[40],Cowgirl,,20
+27,27,,"Redmond, Washington",Tiara Soleim[41],Chicken Enthusiast,,20
+0,25,,"Los Angeles, California",Dominique Alexis[6],Restaurant Server,Participating,21
+1,26,,"Santa Monica, California",Brittany Farrar[6],Travel Nurse,Participating,21
+2,25,,"Chanhassen, Minnesota",Whitney Fransway[7],Pilates Instructor,Participating,21
+3,25,,"Hoxie, Arkansas",Raven Gates[8][9],Fashion Boutique Owner,Participating,21
+4,29,,"Maplewood, New Jersey",Jasmine Goode[10],Pro Basketball Dancer,Participating,21
+5,29,,"Montreal, Quebec",Vanessa Grimaldi[11],Special Education Teacher,Participating,21
+6,28,,"New Orleans, Louisiana",Jaimi King[12],Chef,Participating,21
+7,31,,"Dallas, Texas",Rachel Lindsay[8],Attorney,Participating,21
+8,26,,"Tampa, Florida",Astrid Loch[13],Plastic Surgery Office Manager,Participating,21
+9,27,,"Danville, California",Danielle Lombard[6][9],Small Business Owner,Participating,21
+10,31,,"Colgate, Wisconsin",Danielle Maltby[14],Neonatal Nurse,Participating,21
+11,25,,"Towaco, New Jersey",Lacey Mark[15],Digital Marketing Manager,Participating,21
+12,23,,"Vancouver, British Columbia",Hailey Merkt[16],Photographer,Participating,21
+13,23,,"Seattle, Washington",Taylor Nolan[17],Mental Health Counselor,Participating,21
+14,24,,"Miami, Florida",Corinne Olympios[8][18],Business Owner,Participating,21
+15,24,,"Lexington, Kentucky",Kristina Schulman[19],Dental Hygienist,Participating,21
+16,24,,"Santa Cruz, California",Josephine Tutman[10],Unemployed Nurse,Participating,21
+17,26,,"Palmdale, California",Sarah Vendal[6],Grade School Teacher,Participating,21
+18,23,,"Secaucus, New Jersey",Alexis Waters[8][20],Aspiring Dolphin Trainer,Participating,21
+19,24,,"New Trier, Illinois",Elizabeth Whitelaw[21],Marketing Manager,Participating,21
+20,25,,"Martinsville, Indiana",Christen Whitney[22][23],Wedding Videographer,Participating,21
+21,29,,"Scottsbluff, Nebraska","Elizabeth ""Liz"" Sandoz[8]",Doula,Week 2,21
+22,26,,"Cumberland, Maryland",Angela Amezcua[25],Model,Week 1,21
+23,25,,"Tacoma, Washington",Jasmine Brown[27],Flight Attendant,,21
+24,25,,"Anchorage, Alaska",Olivia Burnette[28],Apparel Sales Representative,,21
+25,23,,"Harlingen, Texas",Ida Marie DeLosSantos[29],Sales Manager,,21
+26,28,,"Salt Lake City, Utah",Briana Guertler[30],Surgical Unit Nurse,,21
+27,30,,"Naples, Florida",Lauren Hussey[31],Law School Graduate,,21
+28,26,,"San Diego, California",Susannah Milan[32],Account Manager,,21
+29,24,,"Los Angeles, California",Michelle Ramkissoon[6][9],Food Truck Owner,,21
+1,27,,"Prior Lake, Minnesota","Rebecca ""Becca"" Kufrin",Publicist,Winner,22
+2,25,,"Virginia Beach, Virginia",Lauren Burnham,Technology Salesperson,Runner-up,22
+3,26,,"Santa Clarita, California",Kendall Long,Creative Director,Week 9,22
+4,26,,"Weiner, Arkansas",Tia Booth,Physical Therapist,Week 8,22
+5,22,,"Fresno, California","Rebekah ""Bekah"" Martinez",Nanny,Week 7,22
+6,27,,"Long Beach, California",Seinne Fleming,Commercial Real Estate Agent,Week 7,22
+7,26,,"Morgantown, West Virginia",Jacqueline Trumbull,Research Coordinator,Week 7 (quit),22
+8,29,,"South Portland, Maine",Chelsea Roy,Real Estate Executive Assistant,Week 6,22
+9,28,,"Raleigh, North Carolina",Jenna Cooper,Social Media Manager,Week 6,22
+10,30,,"Missoula, Montana",Krystal Nielson,Fitness Coach,Week 6,22
+11,25,,"West Palm Beach, Florida",Ashley Luebke,Real Estate Agent,Week 5,22
+12,23,,"American Fork, Utah",Maquel Cooper,Photographer,Week 5,22
+13,27,,"Salt Lake City, Utah",Marikh Mathias,Restaurant Owner,Week 5,22
+14,30,,"Belton, South Carolina",Brittany Taylor,Tech Recruiter,Week 4,22
+15,26,,"Holliston, Massachusetts",Caroline Lunny,Realtor,Week 4,22
+16,30,,"Miami, Florida",Bibiana Julian,Executive Assistant,Week 3,22
+17,32,,"San Mateo, California",Annaliese Puccini,Event Designer,Week 3,22
+18,31,,"Dallas, Texas",Lauren Schleyer,Social Media Manager,Week 3,22
+19,25,,"Northbrook, Illinois","Jennifer ""Jenny"" Delaney",Graphic Designer,Week 2,22
+20,26,,"Indianapolis, Indiana",Lauren Griffin,Executive Recruiter,Week 2,22
+21,26,,"Nashville, Tennessee",Valerie Biles,Server,Week 2,22
+22,27,,"Lawton, Oklahoma","Alison ""Ali"" Harrington",Personal Stylist,Week 1,22
+23,29,,"Denver, Colorado",Amber Wilkerson,Business Owner,Week 1,22
+24,25,,"Grants Pass, Oregon","Brianna ""Bri"" Amaranthus",Sports Reporter,Week 1,22
+25,27,,"San Diego, California",Brittane Johnson,Marketing Manager,Week 1,22
+26,26,,"Calgary, Alberta, Canada",Jessica Carroll,Television Host,Week 1,22
+27,33,,"New Roads, Louisiana",Lauren Jarreau,Recent Master's Graduate,Week 1,22
+28,30,,"Anderson, South Carolina","D'Nysha ""Nysha"" Norris",Orthopedic Nurse,Week 1,22
+29,23,,"Geneseo, Illinois",Olivia Goethals,Marketing Associate,Week 1,22
+4,23,,"Asheville, North Carolina",Caelynn Miller-Keyes,Miss North Carolina USA 2018,Week 8,23
+5,26,,"Whittier, California",Kirpa Sudick,Dental Hygienist,Week 7,23
+6,23,,"Carlsbad, California",Heather Martin,Assistant Program Manager,Week 7 (quit),23
+7,24,,"Northport, Alabama",Hannah Brown,Miss Alabama USA 2018,Week 7,23
+8,26,,"Oviedo, Florida",Katie Morton,Medical Sales Representative,Week 6,23
+9,23,,"Red Oak, Texas",Demi Burnett,Interior Designer,Week 6,23
+10,27,,"Virginia Beach, Virginia",Sydney Lotuaco,NBA Dancer,Week 6 (quit),23
+11,25,,"Miami, Florida",Nicole Lopez-Alvar,Social Media Coordinator,Week 5,23
+12,24,,"Manhattan, Kansas",Onyeka Ehie,IT Risk Consultant,Week 5,23
+13,31,,"Soldotna, Alaska",Elyse Dehlbom,Makeup Artist,Week 5 (quit),23
+14,23,,"McDonough, Georgia",Courtney Curtis,Caterer,Week 4,23
+15,31,,"Rochester, New York",Tracy Shapoff,Wardrobe Stylist,Week 4,23
+16,24,,"Los Angeles, California","Brianna ""Bri"" Barnes",Model,Week 3,23
+17,26,,"Fort Lauderdale, Florida",Catherine Agro,DJ,Week 3,23
+18,30,,"Raleigh, North Carolina",Nina Bartula,Sales Account Manager,Week 3,23
+19,25,,"Toronto, Ontario",Caitlin Clemmens,Realtor,Week 3,23
+20,29,,"Vancouver, British Columbia",Alex Blumberg,Dog Rescuer,Week 2,23
+21,28,,"Hamilton, New Jersey",Angelique Sherman,Marketing Salesperson,Week 2,23
+22,23,,"Mequon, Wisconsin",Annie Reardon,Financial Associate,Week 2,23
+23,25,,"Encinitas, California",Erika McNutt,Recruiter,Week 2,23
+24,23,,"Boston, Massachusetts",Alex Dillon,Account Manager,Week 1,23
+25,23,,"Atlanta, Georgia",Devin Gooden,Broadcast Journalist,Week 1,23
+26,28,,"Plano, Texas",Erin Landry,Human Resources Manager,Week 1,23
+27,26,,"West Hollywood, California","Adrianne ""Jane"" Aver",Social Worker,Week 1,23
+28,26,,"Dallas, Texas",Laura Pellerito,Accountant,Week 1,23
+29,24,,"Austin, Texas",Revian Chang,Nurse,Week 1,23
+30,25,,"Castle Pines, Colorado",Tahzjuan Hawkins,Business Development Associate,Week 1,23
