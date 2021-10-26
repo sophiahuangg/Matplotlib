@@ -14,7 +14,7 @@ A big thank you to Adam Erispaha for creating this CSV file. All of this data wa
 More datasets on Bachelor contestants can be found at the same [website!](https://data.world/aerispaha/the-bachelor-contestants/workspace/query?queryid=c385610c-7254-4100-b592-88e40e3c8f9d)
 
 ## Player Performance
-![Player Performance](https://github.com/sophiahuangg/Nba-Data/blob/main/player_stats.png)
+![Player Performance](https://github.com/sophiahuangg/HW2-GeneratingGraphs/blob/main/PlayerPerformance.png)
 
 For my second plot, I created a grouped bar chart. Here, I analyzed a few statistics of specific NBA players. I used the data of their True Shooting %(TS%), 3 Point Attempt Rate(3PAr), Free Throw Attempt Rate(FTr) to see how they are performing. It is important to note that the statistics are not completely up to date. This was solely created based off of the data from the CSV file.
 
