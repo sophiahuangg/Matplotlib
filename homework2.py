@@ -38,13 +38,13 @@ plt.figure(2)
 df=pd.read_csv('datasets/nba2021_advanced.csv')
 columns=df[['Player','Tm']]
 print(columns)
-a=df.iloc[[4, 13, 108, 117, 126, 268],[0,7,8,9]]
+a=df.iloc[[4, 13, 108, 117, 126, 268, 376, 199, 43],[0,7,8,9]]
 print(a)
 
 print(a)
 a.pivot(index='Player', columns=[]).plot(kind='bar')
 plt.title("Player Performance")
-plt.ylabel("Value")
+plt.ylabel("Percent Shooting Accuracy")
 plt.tight_layout()
 plt.show()
 
